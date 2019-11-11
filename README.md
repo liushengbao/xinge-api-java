@@ -1,5 +1,5 @@
 # 信鸽推送sdk 
-fork 自 [https://github.com/xingePush/xinge-api-java](https://github.com/xingePush/xinge-api-java)
+fork 自 [https://github.com/fanlushuai/xinge-api-java]的修改,做一个备份
 
 代码比较简单，然而bug和不满意的地方总是存在。故决定还是自己fork,自由自在。
 
@@ -13,7 +13,7 @@ fork 自 [https://github.com/xingePush/xinge-api-java](https://github.com/xingeP
      	<dependency>
             <groupId>com.github.xingePush</groupId>
             <artifactId>xinge</artifactId>
-            <version>1.2.2-fix</version>
+            <version>1.2.2-snapshot</version>
         </dependency>
     </dependencies>
 
@@ -21,7 +21,7 @@ fork 自 [https://github.com/xingePush/xinge-api-java](https://github.com/xingeP
         <!-- 引用了github的xingesdk。没有在中心仓库。考虑下载到本地中心仓库。去除此仓库       -->
         <repository>
             <id>maven-repo</id>
-            <url>https://raw.githubusercontent.com/fanlushuai/maven-repo/master/</url>
+            <url>https://raw.githubusercontent.com/liushengbao/maven-repo/master/</url>
         </repository>
     </repositories>
     
