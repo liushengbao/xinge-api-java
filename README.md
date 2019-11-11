@@ -1,5 +1,5 @@
 # 信鸽推送sdk 
-fork 自 [https://github.com/fanlushuai/xinge-api-java]的修改,做一个备份
+fork 自 [https://github.com/fanlushuai/xinge-api-java]
 
 代码比较简单，然而bug和不满意的地方总是存在。故决定还是自己fork,自由自在。
 
